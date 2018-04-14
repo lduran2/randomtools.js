@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<!DOCTYPE html>
+<h:html xmlns:h='http://www.w3.org/1999/xhtml' xml:lang='en'
+	xmlns:m='https://www.w3.org/1998/Math/MathML/'
+>
+	<h:head>
+		<h:title>Test for random tools</h:title>
+	</h:head>
+	<h:body>
+		<h:h1>Test for random tools</h:h1>
+		<h:script type='text/javascript' src='randomize.js' />
+	</h:body>
+</h:html>
